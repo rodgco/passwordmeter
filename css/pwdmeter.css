@@ -242,13 +242,13 @@ height:100px;
 width:900px;
 margin:0 auto;
 }
-#blogname {
+#title {
 height:30px;
 padding-left:12px;
 padding-top:28px;
 text-align:left;
 }
-h1#blogname a {
+h1#title a {
 color:#fff;
 font-size:1.3em;
 }
@@ -353,13 +353,4 @@ font-size:1.3em;
 	text-align: center;
 	margin:0 auto;
 	color:#ccc;
-}
-.advertTop {
-	margin: -30px 0 5px 0;
-}
-.advertBtm {
-	margin: 0 0 20px 0;
-}
-.advertMid {
-	margin: 20px 0 20px -65px;
 }
